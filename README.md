@@ -5,7 +5,6 @@ Python Script to convert Alcatel Lucent OmniSwitch AOS Release 6 to 8 CLI
 - Only the following commands is converted:
 
 system name [string]
-
 system contact [string]
 
 system location [string]
