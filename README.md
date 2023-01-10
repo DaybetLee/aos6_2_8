@@ -147,7 +147,7 @@ lldp [int] med network-policy 1
 # How to run the script
 
 1. Download python. -> https://www.python.org/downloads/
-2. Download scipt from here.
+2. Download script from here.
 3. Run the script and hit enter on prompt,
 
 ![image](https://user-images.githubusercontent.com/55645717/150755102-70466b23-12a8-4d42-915f-b2e16f296c6f.png)
